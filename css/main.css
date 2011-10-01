@@ -1,0 +1,232 @@
+
+/*
+
+Color Codes:
+#30577a; - Title Font, visited site
+#555; - Page Background
+#c6c6c6; - Nav Background, Blog image borders, 
+#333; - borders
+
+*/
+
+html {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	border: 0px;
+}
+
+body {
+	margin: 0px;
+	margin-bottom: 100px;
+	padding: 0px;
+	width: 100%;
+	background: #555;
+	border: 0px;
+	font-family: Rockwell, Verdana, Arial;
+}
+
+h1, h2, h3, h4 {
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	font-family: Verdana, Arial;
+	font-size: 0.85em;
+	margin-top: 0.8em;
+	margin-bottom: 0.8em;
+}
+.noIndent {
+	text-indent: 0px;
+}
+
+a {
+	text-decoration: none;
+	color: #0000ff;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:visited {
+	color: #10315f;
+}
+
+img {
+	border: 0;
+}
+
+header {
+	width: 700px;
+	height: 166px;
+	background-image: url('../images/headerBkgd.png');
+	background-repeat: repeat-x;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 0px;
+	border-left: solid;
+	border-right: solid;
+	border-width: 2px;
+	border-color: #333;
+}
+header span {
+	font-size: 65px;
+	color: #30577a;
+	font-variant:small-caps;
+	position: relative;
+	left: 30px;
+}
+header div{
+	font-size: 20px;
+	color: black;
+	padding-top: 50px;
+}
+header img {
+	position: relative;
+	top:8px;
+}
+#headerLink {
+	width: 700px;
+	margin: 0px;
+	padding: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#headerLink:hover, nav ul a:hover {
+	text-decoration: none;
+}
+
+#content {
+	position: relative;
+	border-left: solid;
+	border-right: solid;
+	border-bottom:solid;
+	border-width: 2px;
+	border-color: #333;
+	background: #fff;
+}
+div.inside {
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+div.pBox {
+	width: 100%;
+	background: #c6c6c6;
+	border-bottom: solid;
+	border-width: 1px;
+}
+div.pBox p {
+	padding: 2px;
+	margin: 0px;
+	text-indent: 5px;
+}
+
+article {
+	float: left;
+	width: 420px;
+	padding-left: 20px;
+}
+
+h1 {
+	width: 100%;
+	border-bottom: solid;
+	border-width: 1px;
+	font-variant:small-caps;
+	font-weight: bold;
+	margin-top: 5px;
+	font-size: 2em;
+}
+
+section h2 {
+	font-family: calisto;
+	text-align: center;
+	font-size: 1.35em;
+	margin-top: 1em;
+}
+.date {
+	font-size: 0.8em;
+	font-family: calisto, Arial;
+	text-align: center;
+	margin:0.2em;
+}
+
+dd {
+	margin-bottom: 7px;
+}
+
+section img {
+	border: ridge;
+	border-width: 3px;
+	border-color: #c6c6c6;
+}
+
+nav {
+	float: right;
+	width: 220px;
+	height: 100%;
+	text-align: center;
+	border-left: solid;
+	border-width: 2px;
+	border-color: #333;
+	background: #c6c6c6;
+}
+nav a {
+	color: black;
+	text-shadow: white 0.1em 0.1em 0.1em, 
+		white -0.1em -0.1em 0.1em,
+		white 0.1em -0.1em 0.1em;
+}
+nav a:visited {
+	color: black;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	padding-top: 10px;
+}
+nav ul span {
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+nav li {
+	height: 110px;
+}
+.otherNav img {
+	border: solid;
+	border-color: black;
+	border-width: 1px;
+}
+.homeNav {
+	height: 100px;
+}
+li.otherNav a span {
+	position: relative;
+	top: -65px;
+	left: -54px;
+}
+.otherNav a span.twoLine {
+	top: -78px;
+}
+.linkOut {
+	font-variant:small-caps;
+}
+
+img.center {
+	width: 100%;
+	margin-left: center;
+	margin-right: center;
+}
+
+footer {
+	width: 100%;
+	text-align: center;
+	font-size: .87em;
+}
+footer a {
+	font-size: 1.3em;
+}

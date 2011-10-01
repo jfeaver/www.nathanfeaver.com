@@ -1,0 +1,11 @@
+
+.psHeader {
+	font-weight: bold;
+	font-variant: small-caps;
+	font-size: 1.3em;
+}
+	
+.mathFont {
+	font-family: times, callisto, lucida;
+	font-variant: normal;
+}

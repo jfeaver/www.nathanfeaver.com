@@ -1,0 +1,26 @@
+\\-- www.NathanFeaver.com --//
+Version: 0.9.0
+Date: 9/30/11
+Author: Nathan Feaver
+
+ABOUT:
+These are all of the files associated with my personal website, www.nathanfeaver.com.  This is the first version that has been published.
+
+LICENSE:
+These files are all licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License found here: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means that you are allowed to take and edit and share any of these files as long as you do not do this commercially and you maintain the same licensing on the files.
+
+VERSION NOTES:
++:completed feature
+-:feature to be improved in next update
+
++Layout in modern browsers
++Link structure
++Graphic Design
+-Page Content:Home,About,Website Design
+-Browser compatibility with browsers not compatible with HTML5
+
+Acknowledgments:
+> My wife, Amy Feaver, has done a lot to encourage me to work hard on this endeavor (and all endeavors).  Thanks sweetie!
+> Josh Hoak - Friend acting as a mentor as I'm starting to dive into the land of programming

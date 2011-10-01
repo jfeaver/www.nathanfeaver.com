@@ -1,0 +1,12 @@
+
+.inside {
+	text-align: center;
+}
+#content {
+	text-align: left;
+}
+.otherNav a span {
+	background-image: url('file:///D:/Website/NathanFeaver/images/transBkgd.png');
+	padding-left: 3px;
+	padding-right: 3px;
+}
