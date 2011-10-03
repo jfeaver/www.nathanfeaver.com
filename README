@@ -1,6 +1,6 @@
 \\-- www.NathanFeaver.com --//
-Version: 0.9.0
-Date: 9/30/11
+Version: 0.9.1
+Date: 10/01/11
 Author: Nathan Feaver
 
 ABOUT:
@@ -20,6 +20,11 @@ VERSION NOTES:
 +Graphic Design
 -Page Content:Home,About,Website Design
 -Browser compatibility with browsers not compatible with HTML5
+
+UPDATES IN THIS VERSION:
++Changed page content (Home, Website Design)
++Added embedded contact page (old version linked out)
++Fixed Page Length (now height is 100% rather than a set length for each page)
 
 Acknowledgments:
 > My wife, Amy Feaver, has done a lot to encourage me to work hard on this endeavor (and all endeavors).  Thanks sweetie!
