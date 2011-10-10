@@ -236,6 +236,10 @@ img.center {
 	margin-left: center;
 	margin-right: center;
 }
+img.left {
+	float: left;
+	margin-right: 5px;
+}
 p.center {
 	text-align: center;
 }

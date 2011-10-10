@@ -1,5 +1,5 @@
 \\-- www.NathanFeaver.com --//
-Version: 0.9.1
+Version: 1.0.0
 Date: 10/01/11
 Author: Nathan Feaver
 
@@ -12,19 +12,19 @@ These files are all licensed under the Creative Commons Attribution-NonCommercia
 This means that you are allowed to take and edit and share any of these files as long as you do not do this commercially and you maintain the same licensing on the files.
 
 VERSION NOTES:
-+:completed feature
--:feature to be improved in next update
++:completed/updated feature
+-:feature to be improved in future updates (ideally)
 
 +Layout in modern browsers
 +Link structure
 +Graphic Design
--Page Content:Home,About,Website Design
++Page Content: Home, Website Design, About, Blog, Projects
+-Page Content: Blog, Brain Benders
 -Browser compatibility with browsers not compatible with HTML5
+-Page Length automatic
 
 UPDATES IN THIS VERSION:
-+Changed page content (Home, Website Design)
-+Added embedded contact page (old version linked out)
-+Fixed Page Length (now height is 100% rather than a set length for each page)
++Changed page content (About, Blog, Projects,)
 
 Acknowledgments:
 > My wife, Amy Feaver, has done a lot to encourage me to work hard on this endeavor (and all endeavors).  Thanks sweetie!
